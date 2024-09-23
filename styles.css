@@ -1,0 +1,103 @@
+body {
+
+    background-image: url(/images/bg3.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+
+.menu {
+
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;;
+    
+    
+}
+
+hr {
+    background-color: brown;
+    border-color: brown;
+    height: 2px;
+    
+}
+
+h1, h2, p {
+
+    text-align: center;
+}
+
+.created {
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1, h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+.item p {
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flavor, .food, .cold {
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+.bottomline {
+margin-top: 25px;
+
+}
+
+footer {
+
+    font-size: 13px;
+}
+
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+
+    color: black;
+}
+
+a:visited {
+
+    color: black;
+}
+
+a:hover {
+
+    color: brown;
+}
+
+a:active {
+
+    color: brown;
+}
